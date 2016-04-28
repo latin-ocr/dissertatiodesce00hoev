@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./dissertatiodesce00hoev_0010.png"; bbox 0 0 2266 3923; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 993 1484 1417 1554">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 993 1484 1417 1554">
+     <span class='ocr_line' id='line_1_1' title="bbox 993 1484 1417 1554; baseline -0.009 0"><span class='ocrx_word' id='word_1_1' title='bbox 993 1484 1126 1554; x_wconf 66' lang='lat' dir='ltr'>mez</span> <span class='ocrx_word' id='word_1_2' title='bbox 1159 1501 1417 1552; x_wconf 52' lang='lat' dir='ltr'><em>mmmm(</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 780 1569 1550 1625">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 780 1569 1550 1625">
+     <span class='ocr_line' id='line_1_2' title="bbox 780 1569 1550 1625; baseline -0.008 1"><span class='ocrx_word' id='word_1_3' title='bbox 780 1613 783 1615; x_wconf 93' lang='lat'>-</span> <span class='ocrx_word' id='word_1_4' title='bbox 862 1575 1154 1625; x_wconf 61' lang='lat' dir='ltr'>HARVARD</span> <span class='ocrx_word' id='word_1_5' title='bbox 1190 1569 1550 1622; x_wconf 58' lang='lat' dir='ltr'>uixnvr-:Rsffv</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 877 1641 1554 1731">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 877 1641 1554 1731">
+     <span class='ocr_line' id='line_1_3' title="bbox 877 1641 1554 1731; baseline -0.013 -31"><span class='ocrx_word' id='word_1_6' title='bbox 877 1644 1254 1731; x_wconf 54' lang='lat' dir='ltr'>§AMBRmGR</span> <span class='ocrx_word' id='word_1_7' title='bbox 1288 1644 1374 1693; x_wconf 87' lang='grc' dir='ltr'>ΜΑ</span> <span class='ocrx_word' id='word_1_8' title='bbox 1408 1641 1554 1691; x_wconf 76' lang='grc' dir='ltr'>υΞΑ·</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
